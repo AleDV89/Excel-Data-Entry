@@ -12,6 +12,7 @@ In this repository, you will find how to automate data entry in Excel. A quick a
 1. **Setup** – Configure your environment to work with Excel and automation scripts.  
 2. **Automated Data Entry** – Use scripts to insert data into the appropriate cells automatically.  
 3. **Organized Storage** – Data is saved in predefined rows and columns for easy access.
-.[!IMPORTANT]. 
+
+>.[!IMPORTANT]. 
 
 Only available on Microsoft Excel
