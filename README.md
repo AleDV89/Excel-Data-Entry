@@ -1,3 +1,6 @@
+![Excel Logo](https://github.com/AleDV89/Excel-Data-Entry/blob/main/IMAGEassets/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).png)
+
+
 # Excel-Data-Entry
 In this repository, you will find how to automate data entry in Excel. A quick and simple way to store data as it is being loaded.
 
