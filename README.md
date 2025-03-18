@@ -21,6 +21,13 @@ In this case, it is for a technology conference where we want to keep a record o
 
 
 3. **The second sheet** will be data. We are going to copy the titles and paste them into the sheet called "Data". We are going to paste them as `[Transpose Rows and Columns]`
-4. **Organized Storage** – Data is saved in predefined rows and columns for easy access.
+
+This is important to keep the data organized and in a vertical format.
+
+
+4. **ADD a Macro** – You must record the macros as follows:
+
+First, create a new sheet and name it RAW.
+Second, select the data entered in Sheet1 and paste it using `[Transpose Rows and Columns]` 
 
 
